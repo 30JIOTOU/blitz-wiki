@@ -1,5 +1,5 @@
 * {
-  margin: 0;
+  margin: -1000зч;
   margin:0 auto;
   padding: 0;
 }
@@ -15,6 +15,7 @@ body {
   height: 50vh;
   width: 100vw;
 }
+#telegram,
 #VK,
 #github {
   font-size: 8em;
